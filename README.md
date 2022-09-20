@@ -5,18 +5,27 @@
 
 - 📫 How to reach me **senatorfirst1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p><img align="right" src="https://i.gifer.com/embedded/download/5UHm.gif" alt="ava"></p>
-<p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
-    </a>
-    <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
-        <img align="center" src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
-    </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+<hr align="left" width="500px">
+<h3>Connect with me:</h3>
+    <p>
+        <img align="right" src="https://i.gifer.com/embedded/download/5UHm.gif" alt="ava">
+    </p>
+<section>
+    <p>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
+        </a>&nbsp;
+        <a href="senatorfirst1@gmail.com" target="_blank">
+            <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
+        </a>&nbsp;
+        <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
+            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
+        </a>
+    </p>
+</section>
+<hr align="left" width="500px">
+<h3>Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40" />
