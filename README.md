@@ -9,14 +9,14 @@
 <p><img align="right" src="https://i.gifer.com/embedded/download/5UHm.gif" alt="ava"></p>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
+    </a>
+    <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
+        <img align="center" src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
     </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40" />
@@ -49,16 +49,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
 </p>
-
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
 </p>
-
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
 </p>
-
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
 </p>
