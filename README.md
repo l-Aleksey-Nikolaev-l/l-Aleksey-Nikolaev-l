@@ -1,3 +1,6 @@
+<p>
+    <img align="right" src="/ICONS/AVA.gif" alt="ava" height="300px" width="300px">
+</p>
 <h1 align="center">Hi 👋, I'm Aleksey Nikolaev</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -7,9 +10,7 @@
 
 <hr align="left" width="500px">
 <h3>Connect with me:</h3>
-    <p>
-        <img align="right" src="/ICONS/AVA.gif" alt="ava">
-    </p>
+    
 <section>
     <p>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
