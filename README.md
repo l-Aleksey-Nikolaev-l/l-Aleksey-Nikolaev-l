@@ -27,7 +27,7 @@
         </a>
     </p>
 </section>
-<hr align="left" width="385px">
+<hr align="left" width="500px">
 <h3>Languages and Tools:</h3>
 <section>
     <p>
@@ -46,8 +46,6 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/C.svg" alt="c" width="40" height="40" />
         </a>
-    </p>
-    <p>
         <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/VS.svg" alt="c" width="40" height="40" />
         </a>
@@ -57,8 +55,6 @@
         <a href="https://www.jetbrains.com/webstorm/ target="_blank" rel="noreferrer">
             <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40" />
         </a>
-    </p>
-    <p>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
             <img src="/ICONS/Windows.svg" alt="Windows" width="40" height="40" />
         </a>
@@ -74,8 +70,6 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="/ICONS/Linux.svg" alt="linux" width="40" height="40" />
         </a>
-    </p>
-    <p>
         <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/LR.svg" alt="LightRoom" width="40" height="40" />
         </a>
@@ -95,7 +89,4 @@
 </p>
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
-</p>
-<p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
 </p>
