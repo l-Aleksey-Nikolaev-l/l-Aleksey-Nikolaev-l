@@ -8,7 +8,7 @@
 <hr align="left" width="500px">
 <h3>Connect with me:</h3>
     <p>
-        <img align="right" src="https://i.gifer.com/embedded/download/5UHm.gif" alt="ava">
+        <img align="right" src="/ICONS/AVA.gif" alt="ava">
     </p>
 <section>
     <p>
