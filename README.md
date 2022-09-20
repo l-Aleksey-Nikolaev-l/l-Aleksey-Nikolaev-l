@@ -15,7 +15,7 @@
 <h3>Connect with me:</h3>
 <section>
     <p>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
+        <a href="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
         </a>&nbsp;
