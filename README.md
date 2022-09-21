@@ -27,60 +27,63 @@
 <hr align="left" width="300px">
 <h3>Languages and Tools:</h3>
 </p>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/CSS3.svg" alt="css3" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/CCharp.svg" alt="csharp" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/CPP.svg" alt="cplusplus" width="40" height="40"/>
-            </a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/C.svg" alt="c" width="40" height="40"/>
-            </a>
-            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-            <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
-            </a>
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/VSCode.svg" alt="c" width="40" height="40"/>
-            </a>
-            <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40"/>
-            </a>
-            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-            <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-                <img src="/ICONS/Windows.svg" alt="Windows" width="40" height="40" />
-            </a>
-            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/DotNet.svg" alt="dotnet" width="40" height="40" />
-            </a>
-            <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/Arduino.svg" alt="arduino" width="40" height="40" />
-            </a>
-            <a href="https://github.com/l-Aleksey-Nikolaev-l/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/GitHub.svg" alt="git" width="40" height="40" />
-            </a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/Linux.svg" alt="linux" width="40" height="40" />
-            </a>
-            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-            <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
-                <img src="/ICONS/LR.svg" alt="LightRoom" width="40" height="40" />
-            </a>
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                <img src="/ICONS/PS.svg" alt="photoshop" width="40" height="40" />
-            </a>
-            <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-                <img src="/ICONS/PR.svg" alt="Premiere Pro" width="40" height="40" />
-            </a>
-            <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
-                <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
-            </a>
+<p>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/CSS3.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/CCharp.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/CPP.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/C.svg" alt="c" width="40" height="40"/>
+    </a>
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/VSCode.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40"/>
+    </a>
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="/ICONS/Windows.svg" alt="Windows" width="40" height="40" />
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/DotNet.svg" alt="dotnet" width="40" height="40" />
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/Arduino.svg" alt="arduino" width="40" height="40" />
+    </a>
+    <a href="https://github.com/l-Aleksey-Nikolaev-l/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/GitHub.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/Linux.svg" alt="linux" width="40" height="40" />
+    </a>
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
+        <img src="/ICONS/LR.svg" alt="LightRoom" width="40" height="40" />
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="/ICONS/PS.svg" alt="photoshop" width="40" height="40" />
+    </a>
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+        <img src="/ICONS/PR.svg" alt="Premiere Pro" width="40" height="40" />
+    </a>
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+        <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
+    </a>
+</p>
+
 <p>
     <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
     <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
