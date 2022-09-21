@@ -25,9 +25,9 @@
         <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
             <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
         </a>
+    </p>
     <hr align="left" width="300px">
     <h3>Languages and Tools:</h3>
-    </p>
     <p>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
