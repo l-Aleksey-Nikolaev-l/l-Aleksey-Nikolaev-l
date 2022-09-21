@@ -85,10 +85,10 @@
         </a>
     </p>
     <p>
-        <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
-        <img align="right" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
+        <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
+        <img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
     </p>
     <p align="center">
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
     </p>
 </body>
