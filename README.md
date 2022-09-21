@@ -91,7 +91,7 @@
     </tr>
 </table>
 <p>
-    <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
-    <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
-    <img align="left" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
+    <img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
+    <img align="right" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
+    <img align="left" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
 </p>
