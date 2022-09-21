@@ -26,8 +26,12 @@
     </a>
 </p>
 <hr align="left" width="300px">
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <h3>Languages and Tools:</h3>
-<table width="100px">
+<table width="100px" align="center">
     <tr>
         <td align="center">
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -95,5 +99,5 @@
     <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
 </p>
 <p align="center">
-    <img width="400px" style="padding-top: 24px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
 </p>
