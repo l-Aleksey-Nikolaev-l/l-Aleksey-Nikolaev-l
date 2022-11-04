@@ -1,4 +1,4 @@
-<body>
+<body style="background: #5d8c9d">
     <p>
         <img align="right" src="/ICONS/AVA.gif" alt="ava" height="250px" width="250px">
     </p>
