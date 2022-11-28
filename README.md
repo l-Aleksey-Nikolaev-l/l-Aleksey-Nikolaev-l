@@ -7,7 +7,6 @@
     <p>
         - 🌱 I’m currently learning:
         <img src="ICONS/JS.svg" alt="JavaScript" height="30" width="30"/>
-        <img src="ICONS/Angular.svg" alt="Angular" height="30" width="30"/>
         <br>
         - 📫 How to reach me:<br>
         **senatorfirst1@gmail.com**
