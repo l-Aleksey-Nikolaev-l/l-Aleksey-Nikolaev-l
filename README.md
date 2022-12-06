@@ -8,8 +8,7 @@
         - 🌱 I’m currently learning:
         <img src="ICONS/JS.svg" alt="JavaScript" height="30" width="30"/>
         <br>
-        - 📫 How to reach me:<br>
-        **senatorfirst1@gmail.com**
+        - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
     <hr align="left" width="300px">
     <h3>Connect with me:</h3>
