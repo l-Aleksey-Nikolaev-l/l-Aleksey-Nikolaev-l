@@ -39,9 +39,6 @@
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="/ICONS/CPP.svg" alt="cplusplus" width="40" height="40"/>
         </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="/ICONS/C.svg" alt="c" width="40" height="40"/>
-        </a>
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
@@ -83,7 +80,6 @@
         </a>
     </p>
     <p>
-        <img align="left" height="155" src="https://github-readme-stats.vercel.app/api?username=l-aleksey-nikolaev-l&show_icons=true&locale=en" alt="l-aleksey-nikolaev-l" />
         <img align="right" height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
     </p>
     <p align="center">
