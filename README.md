@@ -39,7 +39,7 @@
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="/ICONS/CPP.svg" alt="cplusplus" width="40" height="40"/>
         </a>
-        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
         </a>
@@ -49,7 +49,10 @@
         <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
             <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40"/>
         </a>
-        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+            <img src="/ICONS/Figma.svg" alt="c" width="40" height="40"/>
+        </a>
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
             <img src="/ICONS/Windows.svg" alt="Windows" width="40" height="40" />
         </a>
@@ -65,7 +68,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="/ICONS/Linux.svg" alt="linux" width="40" height="40" />
         </a>
-        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/LR.svg" alt="LightRoom" width="40" height="40" />
         </a>
