@@ -49,7 +49,7 @@
         <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
             <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40"/>
         </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="/ICONS/Figma.svg" alt="c" width="40" height="40"/>
         </a>
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
