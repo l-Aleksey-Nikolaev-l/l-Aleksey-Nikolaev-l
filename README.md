@@ -5,8 +5,8 @@
     <h1 align="center">Hi, I'm Aleksey Nikolaev</h1>
     <h3 align="center">A passionate developer</h3>
     <p>
-        - 🌱 I’m currently learning:
-        <img src="ICONS/JS.svg" alt="JavaScript" height="30" width="30"/>
+        - 🌱 I’m currently learning: JavaScript
+        <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
