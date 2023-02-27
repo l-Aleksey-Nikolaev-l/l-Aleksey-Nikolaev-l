@@ -2,8 +2,8 @@
     <p>
         <img align="right" src="/ICONS/AVA.gif" alt="ava" height="250px" width="250px">
     </p>
-    <h1 align="center">H¡!</h1>
-    <h3 align="center">A passionate developer</h3>
+    <h1 align="center">Hi!</h1>
+    <br>
     <p>
         - 🌱 I’m currently learning: JavaScript
         <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
