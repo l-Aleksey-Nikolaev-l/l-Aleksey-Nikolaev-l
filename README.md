@@ -88,4 +88,6 @@
     <p align="center">
         <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
     </p>
+    <footer>
+    </footer>
 </body>
