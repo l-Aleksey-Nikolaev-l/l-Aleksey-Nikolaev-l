@@ -82,12 +82,12 @@
             <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
         </a>
     </p>
+    <footer>
     <p>
         <img align="right" height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l" />
     </p>
     <p align="center">
         <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l" />
     </p>
-    <footer>
     </footer>
 </body>
