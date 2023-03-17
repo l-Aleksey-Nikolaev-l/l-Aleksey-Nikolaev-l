@@ -32,27 +32,13 @@
         <img src="/ICONS/PR.svg" alt="Premiere Pro" width="40" height="40" />
         <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
     </p>
-    <p align="center">
-        <img align="right" height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l"/>
+    <p align="left">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l"/>
+        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l"/>
     </p>
-    <p align="center">
-        <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l"/>
-    </p>
-    <br>
-    <footer>
-    <hr align="left">
-    <h3>Connects:</h3>
-    <p>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                 alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
-        </a>&nbsp;
-        <a href="mailto:senatorfirst1@gmail.com" target="_blank">
-            <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
-        </a>&nbsp;
-        <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
-            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
-        </a>
-    </p>
-    </footer>
 </body>
+
+
+
+
+
