@@ -1,6 +1,6 @@
 <body>
     <h1 align="left">Aleksey Nikolaev!</h1>
-    <h6>(Developer / Engineer / Photographer)</h6>
+    <h5>(Developer / Engineer / Photographer)</h5>
     <br>
     <p>
         - 🌱 I’m currently learning: JavaScript
