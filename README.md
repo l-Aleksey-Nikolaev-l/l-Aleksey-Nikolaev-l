@@ -1,6 +1,7 @@
 <body>
     <h1 align="left">Aleksey Nikolaev!</h1>
-    <h5>(Developer / Engineer / Photographer)</h5>
+`git status`
+`(Developer / Engineer / Photographer)`
     <br>
     <p>
         - 🌱 I’m currently learning: JavaScript
