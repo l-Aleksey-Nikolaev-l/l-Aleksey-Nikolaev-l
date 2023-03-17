@@ -53,7 +53,6 @@
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l"/>
     </p>
-
-[![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
+[![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/small)](https://www.codewars.com/users/Aleksey_Nikolaev)
 
 
