@@ -1,8 +1,8 @@
-<body>
-    <h1 align="left">Aleksey Nikolaev!</h1>
-`git status`
+
+
+# Aleksey Nikolaev
 `(Developer / Engineer / Photographer)`
-    <br>
+    <body>
     <p>
         - 🌱 I’m currently learning: JavaScript
         <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
