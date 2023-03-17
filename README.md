@@ -9,20 +9,6 @@
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
     <hr align="left">
-    <h3>Connect with me:</h3>
-    <p>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                 alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
-        </a>&nbsp;
-        <a href="mailto:senatorfirst1@gmail.com" target="_blank">
-            <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
-        </a>&nbsp;
-        <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
-            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
-        </a>
-    </p>
-    <hr align="left">
     <h3>Languages and Tools:</h3>
     <p>
         <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
@@ -53,4 +39,20 @@
         <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l"/>
     </p>
     <br>
+    <footer>
+    <hr align="left">
+    <h3>Connects:</h3>
+    <p>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                 alt="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" height="30" width="30" />
+        </a>&nbsp;
+        <a href="mailto:senatorfirst1@gmail.com" target="_blank">
+            <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
+        </a>&nbsp;
+        <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
+            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
+        </a>
+    </p>
+    </footer>
 </body>
