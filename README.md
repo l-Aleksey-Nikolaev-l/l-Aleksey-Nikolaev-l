@@ -1,6 +1,6 @@
 # Aleksey Nikolaev
 `(Developer / Engineer / Photographer)`
-<img width="420" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/>
+<img width="430" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/>
 <p>
 - 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
 <br>
