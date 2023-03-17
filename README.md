@@ -11,6 +11,7 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
+    [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
     <br>
     <h3>Connect with me:</h3>
     <p style="align-items: center">
