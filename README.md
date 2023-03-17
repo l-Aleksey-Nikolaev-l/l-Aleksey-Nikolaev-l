@@ -1,6 +1,6 @@
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
 <img width="440" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/>
-#### `(Developer / Engineer / Photographer)`
+### `(Developer / Engineer / Photographer)`
 <br><br>
 <p>
 - 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
