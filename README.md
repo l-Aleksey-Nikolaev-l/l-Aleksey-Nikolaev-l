@@ -3,7 +3,7 @@
 # Aleksey Nikolaev
 `(Developer / Engineer / Photographer)`
     <body>
-    <p width="300">
+    <p width="50%">
         - 🌱 I’m currently learning: JavaScript
         <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
         <br>
