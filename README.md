@@ -1,6 +1,6 @@
-[![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)<br>
+[![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
+<img width="500" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/><br>
 `(Developer / Engineer / Photographer)`
-<img width="430" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/>
 <p>
 - 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
 <br>
