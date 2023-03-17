@@ -11,6 +11,7 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
+    <img align="right" src="/ICONS/AVA.gif"/>
     <br>
     <h3>Connect with me:</h3>
     <p style="align-items: center">
