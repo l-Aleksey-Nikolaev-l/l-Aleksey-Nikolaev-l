@@ -7,6 +7,8 @@
         - 🌱 I’m currently learning: JavaScript
         <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
         <br>
+        - 🎯 2022 Goals: Learned more about HTML and CSS
+        <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
     <br>
