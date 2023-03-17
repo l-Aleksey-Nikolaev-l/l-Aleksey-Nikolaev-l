@@ -11,12 +11,9 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
-    <p align="right" width="300">
-        <img src="/ICONS/AVA.gif"/>
-    </p>
     <br>
     <h3>Connect with me:</h3>
-    <p style="align-items: center">
+    <p>
         <a href="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
             <img src="/ICONS/LinkedIn.svg" alt="LinkedIn" height="30" width="30" />
         </a>&nbsp;
