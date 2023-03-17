@@ -8,7 +8,7 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
-    <hr align="left" width="300px">
+    <hr align="left">
     <h3>Connect with me:</h3>
     <p>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
@@ -22,7 +22,7 @@
             <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
         </a>
     </p>
-    <hr align="left" width="300px">
+    <hr align="left">
     <h3>Languages and Tools:</h3>
     <p>
         <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
