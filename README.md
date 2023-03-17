@@ -24,6 +24,10 @@
         <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
             <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
         </a>
+        </a>&nbsp;
+        <a href="https://www.facebook.com/facebook.client" target="_blank">
+            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
+        </a>
     </p>
     <br>
     <h3>Languages and Tools:</h3>
