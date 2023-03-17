@@ -1,17 +1,14 @@
-
-
 # Aleksey Nikolaev
 `(Developer / Engineer / Photographer)`
-    <body>
-    <p width="50%">
-        - 🌱 I’m currently learning: JavaScript
-        <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
-        <br>
-        - 🎯 2022 Goals: Learned more about HTML and CSS
-        <br>
-        - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
-    </p>
-    <br>
+<img width="300" align="right" src="/ICONS/AVA.gif" alt="AVA"/>
+<p>
+- 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
+<br>
+- 🎯 2022 Goals: Learned more about HTML and CSS
+<br>
+- 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
+</p>
+<br>
     <h3>Connect with me:</h3>
     <p>
         <a href="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
@@ -56,7 +53,6 @@
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l"/>
     </p>
-</body>
 
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
 
