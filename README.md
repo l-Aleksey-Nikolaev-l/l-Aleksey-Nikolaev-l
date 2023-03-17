@@ -26,7 +26,7 @@
         </a>
         </a>&nbsp;
         <a href="https://www.facebook.com/facebook.client" target="_blank">
-            <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
+            <img src="/ICONS/Facebook.svg" alt="Instagram" height="30" width="30"/>
         </a>
     </p>
     <br>
