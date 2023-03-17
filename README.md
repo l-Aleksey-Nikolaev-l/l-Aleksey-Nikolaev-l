@@ -9,7 +9,7 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
-    <hr align="left">
+    <br>
     <h3>Connect with me:</h3>
     <p style="align-items: center">
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
