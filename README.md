@@ -17,15 +17,14 @@
         <a href="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
             <img src="/ICONS/LinkedIn.svg" alt="LinkedIn" height="30" width="30" />
         </a>&nbsp;
+        <a href="https://www.facebook.com/facebook.client" target="_blank">
+            <img src="/ICONS/Facebook.svg" alt="Facebook" height="30" width="30"/>
+        </a>&nbsp;
         <a href="mailto:senatorfirst1@gmail.com" target="_blank">
             <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
         </a>&nbsp;
         <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
             <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
-        </a>
-        </a>&nbsp;
-        <a href="https://www.facebook.com/facebook.client" target="_blank">
-            <img src="/ICONS/Facebook.svg" alt="Facebook" height="30" width="30"/>
         </a>
     </p>
     <br>
