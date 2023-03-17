@@ -3,7 +3,7 @@
 # Aleksey Nikolaev
 `(Developer / Engineer / Photographer)`
     <body>
-    <p>
+    <p width="300">
         - 🌱 I’m currently learning: JavaScript
         <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
         <br>
@@ -11,7 +11,9 @@
         <br>
         - 📫 <a href="https://l-aleksey-nikolaev-l.github.io/CV">My CV As A Project</a>
     </p>
-    <img align="right" src="/ICONS/AVA.gif"/>
+    <p align="right" width="300">
+        <img src="/ICONS/AVA.gif"/>
+    </p>
     <br>
     <h3>Connect with me:</h3>
     <p style="align-items: center">
