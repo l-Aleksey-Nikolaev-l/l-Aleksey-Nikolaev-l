@@ -2,7 +2,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
 ### `(Developer / Engineer / Photographer)`
 <br><br>
-<img width="435" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
+<img width="445" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
 <p>
 - 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
 <br>
