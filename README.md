@@ -1,8 +1,8 @@
 [![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
-<img width="435" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
 ### `(Developer / Engineer / Photographer)`
 <br><br>
+<img width="435" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
 <p>
 - 🌱 I’m currently learning: JavaScript<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/>
 <br>
