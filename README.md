@@ -1,9 +1,9 @@
 [![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
-`(Developer / Engineer / Photographer)`
+`(Developer / Engineer)`
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/small)](https://www.codewars.com/users/Aleksey_Nikolaev)
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-`(Developer / Engineer / Photographer)`
+`(Photographer / Videographer)`
 <h1></h1>
 <br><br>
 <img width="480" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
