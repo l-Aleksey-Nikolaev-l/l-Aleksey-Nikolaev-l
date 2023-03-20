@@ -56,10 +56,12 @@
         <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
     </p>
     <h1></h1>
+    <br><br>
     <p align="left">
         <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l"/>
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
         <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=l-aleksey-nikolaev-l&" alt="l-aleksey-nikolaev-l"/>
     </p>
+    <br>
 
 
