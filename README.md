@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
 <img width="435" align="right" src="/ICONS/AVA0.gif" alt="AVA0"/>
 ### `(Developer / Engineer / Photographer)`
