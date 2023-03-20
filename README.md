@@ -1,5 +1,4 @@
 [![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
-&#160;&#160;&#160;&#160;&#160;
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 `(Developer / Engineer)`
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
