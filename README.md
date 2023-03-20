@@ -1,6 +1,7 @@
 [![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large)](https://www.codewars.com/users/Aleksey_Nikolaev)
 ### `(Developer / Engineer / Photographer)` ###
+<h1></h1>
 <br><br>
 <img width="480" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
 <p>
@@ -27,6 +28,7 @@
         </a>
     </p>
     <br>
+    <h1></h1>
     <h3>Languages and Tools:</h3>
     <p>
         <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
