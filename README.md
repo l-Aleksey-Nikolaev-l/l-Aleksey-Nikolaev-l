@@ -55,6 +55,7 @@
         <img src="/ICONS/PR.svg" alt="Premiere Pro" width="40" height="40" />
         <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
     </p>
+    <h1></h1>
     <p align="left">
         <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-aleksey-nikolaev-l&show_icons=true&locale=en&layout=compact" alt="l-aleksey-nikolaev-l"/>
         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
