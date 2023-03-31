@@ -2,6 +2,9 @@
 <div align="center">
 
 ### `(Developer / Engineer / Photographer / Videographer)` ###
+
+<br>
+
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large?theme=light)](https://www.codewars.com/users/Aleksey_Nikolaev)
 
 </div>
