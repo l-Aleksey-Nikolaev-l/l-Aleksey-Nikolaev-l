@@ -1,6 +1,10 @@
 [![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
+<div align="center">
+
 ### `(Developer / Engineer)` `(Photographer / Videographer)` ###
 [![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large?theme=light)](https://www.codewars.com/users/Aleksey_Nikolaev)
+
+</div>
 <h1></h1>
 <br><br>
 <img width="480" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
