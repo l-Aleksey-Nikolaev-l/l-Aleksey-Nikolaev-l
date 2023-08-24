@@ -41,7 +41,7 @@
     <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
     <img src="/ICONS/CSS3.svg" alt="css3" width="40" height="40"/>
     <img src="/ICONS/JS.svg" alt="JavaScript" width="36" height="36"/>
-    <img src="/ICONS/AngularJS.svg" alt="Angular" width="44" height="44"/>
+    <img src="/ICONS/AngularJS.svg" alt="Angular" width="38" height="38"/>
     <img src="/ICONS/CCharp.svg" alt="csharp" width="40" height="40"/>
     &#160;&#160;&#160;&#160;
     <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
