@@ -12,9 +12,9 @@
 <br><br>
 <img width="480" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
 <p>
-    - 🌱 I’m currently learning: React<img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/> and Angular<img src="ICONS/Angular.svg" alt="Angular" height="14" width="14"/>
+    - 🌱 I’m currently learning: React, Angular
     <br>
-    - 🎯 2023 Goals: Learned more about JavaScript & Angular
+    - 🎯 2023 Goals: Learned more about <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/> & <img src="ICONS/Angular.svg" alt="Angular" height="14" width="14"/>
     <br>
     - 📫 <a href="https://ncv-pi.vercel.app/">My CV As A Project</a>
 </p>
