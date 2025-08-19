@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 44 44"
+   xml:space="preserve"
+   sodipodi:docname="ESLint.svg"
+   width="44"
+   height="44"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+<path
+   style="fill:#7986cb"
+   d="m 13.337,16.609 8.334,-4.811 c 0.204,-0.118 0.455,-0.118 0.659,0 l 8.341,4.816 C 30.874,16.731 31,16.949 31,17.184 v 9.632 c 0,0.235 -0.126,0.453 -0.329,0.57 l -8.341,4.816 c -0.204,0.118 -0.455,0.118 -0.659,0 L 13.33,27.386 C 13.126,27.269 13,27.051 13,26.816 v -9.623 c 0,-0.241 0.129,-0.463 0.337,-0.584"
+   id="path1" />
+<path
+   style="fill:#3949ab"
+   d="M 43.362,21.003 33.545,3.925 C 33.189,3.307 32.53,2.852 31.817,2.852 H 12.183 c -0.713,0 -1.372,0.455 -1.729,1.073 L 0.638,20.966 c -0.357,0.618 -0.357,1.397 0,2.015 l 9.817,16.938 c 0.356,0.617 1.015,0.933 1.728,0.933 h 19.634 c 0.713,0 1.372,-0.306 1.728,-0.924 l 9.817,-16.966 c 0.357,-0.617 0.357,-1.341 0,-1.959 m -8.702,8.67 -12.304,7.099 c -0.217,0.125 -0.484,0.125 -0.701,0 L 9.34,29.673 C 9.13,29.551 9,29.327 9,29.084 V 14.915 c 0,-0.243 0.13,-0.468 0.341,-0.59 L 21.643,7.227 c 0.217,-0.125 0.484,-0.125 0.701,0 l 12.289,7.084 C 34.86,14.443 35,14.685 35,14.948 v 14.136 c 0,0.243 -0.13,0.468 -0.34,0.589 z"
+   id="path2" />
+</svg>
