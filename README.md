@@ -3,7 +3,7 @@
 ```json
 "firstName": "Aleksey",
 "lastName": "Nikolaev",
-"Education": "Engineer / Developer",
+"education": "Engineer / Developer",
 "hobbies": {
             "main": "Photography",
             "adittional": "Videography",
