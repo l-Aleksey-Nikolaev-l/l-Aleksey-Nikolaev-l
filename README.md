@@ -9,33 +9,6 @@
 
 </div>
 <h1></h1>
-<br><br>
-<img width="480" align="right" src="/ICONS/AVAN.gif" alt="AVAN"/>
-<p>
-    - 🌱 I’m currently learning: React, Angular
-    <br>
-    - 🎯 2023 Goals: Learned more about <img src="ICONS/JS.svg" alt="JavaScript" height="14" width="14"/> & <img src="ICONS/Angular.svg" alt="Angular" height="14" width="14"/>
-    <br>
-    - 📫 <a href="https://ncv-pi.vercel.app/">My CV As A Project</a>
-</p>
-<br>
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://www.linkedin.com/in/aleksey-nikolaev-092881174/" target="blank">
-        <img src="/ICONS/LinkedIn.svg" alt="LinkedIn" height="30" width="30" />
-    </a>&nbsp;
-    <a href="https://www.facebook.com/facebook.client" target="_blank">
-        <img src="/ICONS/Facebook.svg" alt="Facebook" height="30" width="30"/>
-    </a>&nbsp;
-    <a href="mailto:senatorfirst1@gmail.com" target="_blank">
-        <img src="/ICONS/Gmail.svg" alt="Gmail" height="30" width="30">
-    </a>&nbsp;
-    <a href="https://www.instagram.com/mister.nikolson/" target="_blank">
-        <img src="/ICONS/Insta.svg" alt="Instagram" height="30" width="30"/>
-    </a>
-</p>
-<br>
-<h1></h1>
 <h3>Languages and Tools:</h3>
 <p>
     <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
