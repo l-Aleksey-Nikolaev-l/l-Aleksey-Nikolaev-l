@@ -10,27 +10,28 @@
 <h1></h1>
 <h3>Languages and Tools:</h3>
 <p>
-    <img src="/ICONS/JS.svg" alt="JavaScript" width="36" height="36"/>
-    <img src="/ICONS/TypeScript.svg" alt="TypeScript" width="36" height="36"/>
-    <img src="/ICONS/HTML5.svg" alt="html5" width="40" height="40"/>
-    <img src="/ICONS/CSS3.svg" alt="css3" width="40" height="40"/>
-    <img src="/ICONS/AngularJS.svg" alt="Angular" width="38" height="38"/>
+    <img src="/ICONS/JS_R.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="/ICONS/TS_R.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="/ICONS/HTML_R.svg" alt="HTML" width="40" height="40"/>
+    <img src="/ICONS/CSS_R.svg" alt="CSS" width="40" height="40"/>
+    <img src="/ICONS/Angular_R.svg" alt="Angular" width="40" height="40"/>
     &#160;&#160;&#160;&#160;
-    <img src="/ICONS/WebStorm.svg" alt="c" width="40" height="40"/>
-    <img src="/ICONS/Figma.svg" alt="c" width="40" height="40"/>
-    <img src="/ICONS/VSCode.svg" alt="c" width="40" height="40"/>
-    <img src="/ICONS/VS.svg" alt="c" width="40" height="40"/>
+    <img src="/ICONS/React_R.svg" alt="React" width="40" height="40"/>
+    <img src="/ICONS/NodeJS_R.svg" alt="Node.js" width="40" height="40" />
+    <img src="/ICONS/ESLint_R.svg" alt="ESLint" width="40" height="40" />
+    <img src="/ICONS/Prettier_R.svg" alt="Prettier" width="40" height="40" />
     &#160;&#160;&#160;&#160;
-    <img src="/ICONS/GitHub.svg" alt="git" width="40" height="40" />
-    <img src="/ICONS/Windows.svg" alt="Windows" width="40" height="40" />
-    <img src="/ICONS/Linux.svg" alt="linux" width="40" height="40" />
-    <img src="/ICONS/DotNet.svg" alt="dotnet" width="40" height="40" />
-    <img src="/ICONS/Arduino.svg" alt="arduino" width="40" height="40" />
+    <img src="/ICONS/NPM_R.svg" alt="NPM" width="40" height="40" />
+    <img src="/ICONS/Webpack_R.svg" alt="Webpack" width="40" height="40"/>
+    <img src="/ICONS/GitHub_R.svg" alt="GitHub" width="40" height="40"/>
+    <img src="/ICONS/Figma_R.svg" alt="Figma" width="40" height="40"/>
     &#160;&#160;&#160;&#160;
-    <img src="/ICONS/LR.svg" alt="LightRoom" width="40" height="40" />
-    <img src="/ICONS/PS.svg" alt="photoshop" width="40" height="40" />
-    <img src="/ICONS/PR.svg" alt="Premiere Pro" width="40" height="40" />
-    <img src="/ICONS/DaVinci.svg" alt="DaVinci Resolve" width="40" height="40" />
+    <img src="/ICONS/MacOS_R.svg" alt="MacOS" width="40" height="40" />
+    <img src="/ICONS/Windows_R.svg" alt="Windows" width="40" height="40" />
+    <img src="/ICONS/Linux_R.svg" alt="Linux" width="40" height="40" />
+    <img src="/ICONS/WebStorm_R.svg" alt="WebStorm" width="40" height="40" />
+    <img src="/ICONS/VSCode_R.svg" alt="VSCode" width="40" height="40" />
+    
 </p>
 <h1></h1>
 <br><br>
