@@ -1,7 +1,6 @@
-[![MasterHead](/ICONS/Header.png)](https://github.com/l-Aleksey-Nikolaev-l)
 <div align="center">
 
-### `(Developer / Engineer / Photographer / Videographer)` ###
+### `Developer / Engineer / Photographer / Videographer` ###
 
 <br>
 
