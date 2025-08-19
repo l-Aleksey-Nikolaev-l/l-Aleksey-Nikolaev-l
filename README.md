@@ -4,9 +4,10 @@
 "firstName": "Aleksey",
 "lastName": "Nikolaev",
 "Education": "Engineer / Developer",
-"hobbie": {
+"hobbies": {
             "main": "Photography",
             "adittional": "Videography",
+            "rest": "Travels"
           }
 ```
     
