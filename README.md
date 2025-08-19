@@ -1,11 +1,23 @@
+<div align="left">
+    
+```json
+"firstName": "Aleksey",
+"lastName": "Nikolaev",
+"Education": "Engineer / Developer",
+"hobbie": {
+            "main": "Photography",
+            "adittional": "Videography",
+          }
+```
+    
+</div>
+
 <div align="center">
-
-### `Developer / Engineer / Photographer / Videographer` ###
-
+    
 <br>
-
-[![Codewars Badge](https://www.codewars.com/users/Aleksey_Nikolaev/badges/large?theme=light)](https://www.codewars.com/users/Aleksey_Nikolaev)
-
+<p>
+    <kbd><img height="34" src="https://www.codewars.com/users/Aleksey_Nikolaev/badges/large?theme=light" alt="Aleksey Nikolaev Codewars"></kbd>
+</p>
 </div>
 <h1></h1>
 <h3>Languages and Tools:</h3>
